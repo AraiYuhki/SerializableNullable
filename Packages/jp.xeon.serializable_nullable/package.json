@@ -1,5 +1,6 @@
 {
   "name": "jp.xeon.serializable_nullable",
+  "author": "Xeon",
   "displayName": "SerializableNullable",
   "version": "0.1.0",
   "description": "Nullable\u578b\u3092\u30b7\u30ea\u30a2\u30e9\u30a4\u30ba\u3067\u304d\u308b\u3088\u3046\u306b\u3059\u308b\u3002\nNullable\u3007\u3007\u3068\u3064\u3044\u305f\u30af\u30e9\u30b9\u3067int?\u306a\u3069\u306e\u4ee3\u66ff\u3092\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
