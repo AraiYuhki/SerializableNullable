@@ -1,0 +1,22 @@
+{
+    "name": "jp.xeon.serializable_nullable",
+    "rootNamespace": "",
+    "references": [
+        "GUID:132341a8f4c482f4cb07785897dd4652"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "jp.xeon.simple_csv_parser",
+            "expression": "0.1.0",
+            "define": "XEON_CSV_SUPPORT"
+        }
+    ],
+    "noEngineReferences": false
+}
