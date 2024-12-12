@@ -1,0 +1,2 @@
+# SerializableNullable
+Nullableな型をシリアライズできるようにしたクラスをまとめたパッケージ
